@@ -41,7 +41,6 @@ int main()
                 cout << "Error: Cannot divide by zero.";
             }
             break;
-            break;
         default:
             cout << "Invalid operator.";
     }
